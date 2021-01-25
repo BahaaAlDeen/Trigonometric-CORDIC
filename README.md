@@ -36,5 +36,12 @@ To optimize the architecture, the values of <img src="https://user-images.github
 <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0960077920308857-gr6.jpg" width="400">
 Fig.1 (Source: https://doi.org/10.1016/j.chaos.2020.110493)
 
+## How to use
+To use this function simply clone the file 'CORDIC_MAIN.v.m', and run the verilog script. See the comments within this file for more details on how to experiment with the different variables in this function. 
 
+    Fractional Order Derivative/Integral using "Grunwald letnikov" formula to compute Differentiation/Integration at a certain order.
+
+    input: 	'a' is the order of Differentiation/Integration.
+		'h' is the accuraccy of the operation presented as an increment where the smaller value the better accuracy (Best value is 0.1) and 'y1' is the input discrete vector to be Differented/Integrated.
+    out: 	 a discrete vector representing the Differentiation/Integration at order 'a'.
 
