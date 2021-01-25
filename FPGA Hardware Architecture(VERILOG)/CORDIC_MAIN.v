@@ -78,10 +78,14 @@ always @(posedge clk ) begin
 if (rst==1)begin //initialization 1
 
 ScalingFactor=39793; //0.6072; fix((0.6072)*2^16);  16.16;
+
+
+	
 c90=5898240;         //90;     fix((90)*2^16);      16.16;
 c180=11796480;       //180;    fix((180)*2^16);     16.16;
 c270=17694720;       //270;    fix((270)*2^16);     16.16;
 c360=23592960;       //360;    fix((360)*2^16);     16.16;
+rad=??
 
 
 x=ScalingFactor;   //input x
