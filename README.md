@@ -20,7 +20,6 @@ Table.1 (Source: https://doi.org/10.1016/j.chaos.2020.110493)
 ## How to use
 To use this function simply clone the function file 'Mathematical Concept(MATLAB).m', and run the matlab script. See the comments within this file for more details on how to experiment with the different variables in this function. 
 
-    Fractional Order Derivative/Integral using "Grunwald letnikov" formula to compute Differentiation/Integration at a certain order.
 
     input: 	'rad' is the oinput angle in radian.
 
@@ -39,7 +38,6 @@ Fig.1 (Source: https://doi.org/10.1016/j.chaos.2020.110493)
 ## How to use
 To use this function simply clone the file 'CORDIC_MAIN.v', and run the verilog script. Use the file 'CORDIC_TB.v' as a test bench to test an input angle and the output of the trignometric process. See the comments within this file for more details on how to experiment with the different variables in this function. 
 
-    Fractional Order Derivative/Integral using "Grunwald letnikov" formula to compute Differentiation/Integration at a certain order.
 
     input: 	'rad' is the input angle in radian multiplied by 2^16  (32-bits = 16.16 = 16-bits for integer . 16-bits for fractional).
 
