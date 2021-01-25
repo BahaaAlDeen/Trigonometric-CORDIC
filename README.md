@@ -15,7 +15,14 @@ where A is the input angle, B is the cosine of the angle, C is the sine of the i
 The mathematical statement is realized in the architecture shown in Fig. 6, where the initial value for B amount to a scaling factor estimated to be B=0.6072 , the value of C and ζ are initialized at C=0 and ζ=1. As shown in Fig. 6 the index μ is bounded by a limit (μ≤a) defined as a comparator, where (a) is estimated optimally as (a=13). To optimize the architecture, the values of <img src="https://user-images.githubusercontent.com/44608585/105716962-348e3e80-5f28-11eb-9324-511173801623.png" width="80"> and <img src="https://user-images.githubusercontent.com/44608585/105719993-9308ec00-5f2b-11eb-9070-2a1c28cc0cc0.png" width="30"> are stated in LUTs as shown in Fig. 6, selected by the state of the μ index . Eventually, the final value of B and C should give the cosine and the sine of the given angle, respectively, after a number of iterations (μ = a). The values set for the designed architecture variables and their initial conditions are depicted in Table 2. A comprehensive repository is realized with a software for the trigonometric CORDIC mathematical expression and hardware architecture.
 
 
-<img src="https://user-images.githubusercontent.com/44608585/105723646-af0e8c80-5f2f-11eb-9a10-868e32c566e4.png" width="80">
+<img src="https://user-images.githubusercontent.com/44608585/105723646-af0e8c80-5f2f-11eb-9a10-868e32c566e4.png" width="300">
+
+
+
+
+
+
+
 
 
 The function gives more degree of freedome in the order domain, represented in the swept area between different integer orders.
