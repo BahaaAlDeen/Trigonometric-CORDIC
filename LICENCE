@@ -3,9 +3,13 @@ BSD 3-Clause License
 Copyright (c) 2020, BahaaAlDeen M.AboAlNaga
 All rights reserved.
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted while using the following citation 
-(B. M. AboAlNaga, L. A. Said, A. H. Madian, and A. G. Radwan, “Analysis and FPGA of semi-fractal shapes based on complex Gaussian map,” Chaos, Solitons & Fractals, vol. 142, p. 110493, Jan. 2021.) provided that the following conditions are met:
+Redistribution and use in source and binary forms, with or without modification, are permitted while using the following citation 
+
+(B. M. AboAlNaga, L. A. Said, A. H. Madian, and A. G. Radwan, 
+“Analysis and FPGA of semi-fractal shapes based on complex Gaussian map,” 
+Chaos, Solitons & Fractals, vol. 142, p. 110493, Jan. 2021.) 
+
+provided that the following conditions are met:
 
 1. Redistributions of source code must retain the above copyright notice, this
    list of conditions and the following disclaimer.
