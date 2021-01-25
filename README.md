@@ -28,7 +28,7 @@ To use this function simply clone the function file 'Mathematical Concept(MATLAB
 
 
 
-
+# FPGA Hardware Architecture(VERILOG)
 
 To optimize the architecture, the values of <img src="https://user-images.githubusercontent.com/44608585/105716962-348e3e80-5f28-11eb-9324-511173801623.png" width="80"> and <img src="https://user-images.githubusercontent.com/44608585/105719993-9308ec00-5f2b-11eb-9070-2a1c28cc0cc0.png" width="30"> are stated in LUTs as shown in Fig. 6, selected by the state of the μ index . Eventually, the final value of B and C should give the cosine and the sine of the given angle, respectively, after a number of iterations (μ = a). The values set for the designed architecture variables and their initial conditions are depicted in the given Table. A comprehensive repository is realized with a software for the trigonometric CORDIC mathematical expression and hardware architecture.
 
