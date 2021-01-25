@@ -4,7 +4,7 @@ Iterative discrete mathematical method to achieve an accurate trigonometric outp
 # Mathematical Concept(MATLAB)
 
 The trigonometric system is realized by using the CORDIC system achieving an iterative mathematical approximation given by:
-
+![equation](http://www.sciweavers.org/tex2img.php?eq=1%2Bsin%28mc%5E2%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
 <img src="https://user-images.githubusercontent.com/44608585/105712967-3a355580-5f23-11eb-990c-2801856c35f0.png" width="200">
 
 where A is the input angle, B is the cosine of the angle, C is the sine of the input angle. The index ζ is the iteration index and the variable ζ is either 1 or -1 depending on the value of  from the previous iteration where:
