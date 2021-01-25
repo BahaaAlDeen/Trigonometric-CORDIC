@@ -3,12 +3,19 @@ Iterative discrete mathematical method to achieve an accurate trigonometric outp
 
 # Mathematical Concept(MATLAB)
 
-The trigonometric system is realized by using the CORDIC system studied by an iterative mathematical approximation given by:
+The trigonometric system is realized by using the CORDIC system achieving an iterative mathematical approximation given by:
 
+<img src="https://user-images.githubusercontent.com/44608585/105712967-3a355580-5f23-11eb-990c-2801856c35f0.png" width="350">
 
-
+where A is the input angle, B is the cosine of the angle, C is the sine of the input angle. The index ζ is the iteration index and the variable ζ is either 1 or -1 depending on the value of  from the previous iteration where:
 
 <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0960077920308857-gr6.jpg" width="350">
+
+
+
+
+
+
 
 The function gives more degree of freedome in the order domain, represented in the swept area between different integer orders.
 
