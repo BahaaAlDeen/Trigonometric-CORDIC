@@ -12,7 +12,7 @@ where A is the input angle, B is the cosine of the angle, C is the sine of the i
 <img src="https://user-images.githubusercontent.com/44608585/105713342-b3cd4380-5f23-11eb-8788-6f1a3c931683.png" width="120">
 
 
-The mathematical statement is realized in the architecture shown in Fig. 6, where the initial value for B amount to a scaling factor estimated to be B=0.6072 , the value of C and ζ are initialized at C=0 and ζ=1. As shown in Fig. 6 the index μ is bounded by a limit (μ≤a) defined as a comparator, where (a) is estimated optimally as (a=13) [[1]](https://doi.org/10.1016/j.chaos.2020.110493) . 
+The mathematical statement is realized in the architecture shown in Fig. 6, where the initial value for B amount to a scaling factor estimated to be B=0.6072 , the value of C and ζ are initialized at C=0 and ζ=1. As shown in Fig. 6 the index μ is bounded by a limit (μ≤a) defined as a comparator, where (a) is estimated optimally as (a=13) [[1]](https://doi.org/10.1016/j.chaos.2020.110493). 
 
 <img src="https://user-images.githubusercontent.com/44608585/105723646-af0e8c80-5f2f-11eb-9a10-868e32c566e4.png" width="500">
 
@@ -35,7 +35,7 @@ To optimize the architecture, the values of <img src="https://user-images.github
 
 
 <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0960077920308857-gr6.jpg" width="400">
-Fig.1 (source: creativecommons.org BY-SA 3.0)
+Fig.1 [[1]](https://doi.org/10.1016/j.chaos.2020.110493)
 
 
 
