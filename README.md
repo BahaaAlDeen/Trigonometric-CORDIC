@@ -1,5 +1,5 @@
 # Trignometric-CORDIC
-Iterative discrete mathematical method to achieve an accurate trigonometric output. This code was used in the paper titled <"Analysis and FPGA of semi-fractal shapes based on complex Gaussian map" src="https://doi.org/10.1016/j.chaos.2020.110493" width="350">
+Iterative discrete mathematical method to achieve an accurate trigonometric output. This code was used in the paper titled ["Analysis and FPGA of semi-fractal shapes based on complex Gaussian map](https://doi.org/10.1016/j.chaos.2020.110493) 
 
 # Mathematical Concept(MATLAB)
 
