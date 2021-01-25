@@ -4,6 +4,7 @@ Iterative discrete mathematical method to achieve an accurate trigonometric outp
 # Mathematical Concept(MATLAB)
 
 The trigonometric system is realized by using the CORDIC system achieving an iterative mathematical approximation given by:
+
 ![equation](http://www.sciweavers.org/tex2img.php?eq=1%2Bsin%28mc%5E2%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
 <img src="https://user-images.githubusercontent.com/44608585/105712967-3a355580-5f23-11eb-990c-2801856c35f0.png" width="200">
 
@@ -12,7 +13,7 @@ where A is the input angle, B is the cosine of the angle, C is the sine of the i
 <img src="https://user-images.githubusercontent.com/44608585/105713342-b3cd4380-5f23-11eb-8788-6f1a3c931683.png" width="120">
 
 
-The mathematical statement is realized in the architecture shown in Fig. 6, where the initial value for B amount to a scaling factor estimated to be B0=0.6072 , the value of C and ζ are initialized at C0 = 0 and ζ = 1. As shown in Fig. 6 the index μ is bounded by a limit (μ ≤ a) defined as a comparator, where (a) is estimated optimally as (a = 13). To optimize the architecture, the values of $$tan^−1(2^−μ_n)$$ and  are stated in LUTs as shown in Fig. 6, selected by the state of the index . Eventually, the final value of  and  should give the cosine and the sine of the given angle, respectively, after a number of iterations (). The values set for the designed architecture variables and their initial conditions are depicted in Table 2. A comprehensive repository is realized with a software for the trigonometric CORDIC mathematical expression and hardware architecture [29].
+The mathematical statement is realized in the architecture shown in Fig. 6, where the initial value for B amount to a scaling factor estimated to be B0=0.6072 , the value of C and ζ are initialized at C0 = 0 and ζ = 1. As shown in Fig. 6 the index μ is bounded by a limit (μ ≤ a) defined as a comparator, where (a) is estimated optimally as (a = 13). To optimize the architecture, the values of <img src="http://www.sciweavers.org/tex2img.php?eq=tan%5E%7B-1%7D%282%5E%7B%E2%88%92%CE%BC_n%7D%29%20&bc=White&fc=Black&im=jpg&fs=12&ff=modern&edit=0" align="center" border="0" alt="tan^{-1}(2^{−μ_n}) " width="71" height="21" /> and  are stated in LUTs as shown in Fig. 6, selected by the state of the index . Eventually, the final value of  and  should give the cosine and the sine of the given angle, respectively, after a number of iterations (). The values set for the designed architecture variables and their initial conditions are depicted in Table 2. A comprehensive repository is realized with a software for the trigonometric CORDIC mathematical expression and hardware architecture [29].
 
 
 
