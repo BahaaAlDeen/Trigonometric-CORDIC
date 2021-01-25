@@ -13,6 +13,7 @@ where A is the input angle, B is the cosine of the angle, C is the sine of the i
 
 
 The mathematical statement is realized in the architecture shown in Fig. 6, where the initial value for B amount to a scaling factor estimated to be B=0.6072 , the value of C and ζ are initialized at C=0 and ζ=1. As shown in Fig. 6 the index μ is bounded by a limit (μ≤a) defined as a comparator, where (a) is estimated optimally as (a=13). 
+
 <img src="https://user-images.githubusercontent.com/44608585/105723646-af0e8c80-5f2f-11eb-9a10-868e32c566e4.png" width="500">
 
 ## How to use
