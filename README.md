@@ -22,10 +22,10 @@ To use this function simply clone the function file 'Mathematical Concept(MATLAB
 
     Fractional Order Derivative/Integral using "Grunwald letnikov" formula to compute Differentiation/Integration at a certain order.
 
-    input: 	'a' is the order of Differentiation/Integration.
-		'h' is the accuraccy of the operation presented as an increment where the smaller value the better accuracy (Best value is 0.1) and 'y1' is the input discrete vector to be Differented/Integrated.
-    out: 	 a discrete vector representing the Differentiation/Integration at order 'a'.
+    input: 	'rad' is the oinput angle in radian.
 
+    out: 	 'COS' cosine of the input angle.
+                 'SIN' sine of the input angle
 
 
 
