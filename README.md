@@ -1,6 +1,7 @@
 # Trignometric-CORDIC
-Iterative discrete mathematical method to achieve an accurate trigonometric output.
-# FOGL Function (Fractional Order Derivative/Integral)
+Iterative discrete mathematical method to achieve an accurate trigonometric output. Please cite the following paper <img src="https://doi.org/10.1016/j.chaos.2020.110493" width="350">
+
+# Mathematical Concept(MATLAB)
 
 This function uses the "Grunwald letnikov" formula to get Derivative/Integral at a certain integer or fractional order.
 The function can be used to input a discrete vector and output a single vector, or input a matrix and get a 3d matrix where the 3d dimension is Differentiation/Integration of each raw.
