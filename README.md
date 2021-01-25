@@ -9,7 +9,7 @@ The trigonometric system is realized by using the CORDIC system achieving an ite
 
 where A is the input angle, B is the cosine of the angle, C is the sine of the input angle. The index ζ is the iteration index and the variable ζ is either 1 or -1 depending on the value of  from the previous iteration where:
 
-<img src="https://ars.els-cdn.com/content/image/1-s2.0-S0960077920308857-gr6.jpg" width="350">
+<img src="https://user-images.githubusercontent.com/44608585/105713342-b3cd4380-5f23-11eb-8788-6f1a3c931683.png" width="200">
 
 
 
