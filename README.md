@@ -24,8 +24,8 @@ To use this function simply clone the function file 'Mathematical Concept(MATLAB
 
     input: 	'rad' is the oinput angle in radian.
 
-    out: 	 'COS' cosine of the input angle.
-                 'SIN' sine of the input angle
+    out: 	'COS' cosine of the input angle.
+         	'SIN' sine of the input angle
 
 
 
