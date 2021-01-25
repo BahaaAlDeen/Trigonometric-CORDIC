@@ -35,7 +35,7 @@ To optimize the architecture, the values of <img src="https://user-images.github
 
 
 <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0960077920308857-gr6.jpg" width="400">
-Fig.1 [[1]](https://doi.org/10.1016/j.chaos.2020.110493)
+Fig.1[[1]](https://doi.org/10.1016/j.chaos.2020.110493)
 
 
 
