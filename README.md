@@ -48,7 +48,7 @@ To use this function simply clone the function file 'fogl.py', and run the main 
 
 Fig.2
 
-![Figure_1](https://user-images.githubusercontent.com/44608585/81622880-2ca16500-93c0-11ea-8f4e-6bbd677a9051.png)
+![Figure_1](https://user-images.githubusercontent.com/44608585/81622880-2ca16500-93c0-11ea-8f4e-6bbd677a9051.png) 
 
  
 
