@@ -3,8 +3,10 @@ Iterative discrete mathematical method to achieve an accurate trigonometric outp
 
 # Mathematical Concept(MATLAB)
 
-This function uses the "Grunwald letnikov" formula to get Derivative/Integral at a certain integer or fractional order.
-The function can be used to input a discrete vector and output a single vector, or input a matrix and get a 3d matrix where the 3d dimension is Differentiation/Integration of each raw.
+The trigonometric system is realized by using the CORDIC system studied by an iterative mathematical approximation given by:
+
+
+
 
 <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0960077920308857-gr6.jpg" width="350">
 
