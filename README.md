@@ -6,7 +6,7 @@ Iterative discrete mathematical method to achieve an accurate trigonometric outp
 This function uses the "Grunwald letnikov" formula to get Derivative/Integral at a certain integer or fractional order.
 The function can be used to input a discrete vector and output a single vector, or input a matrix and get a 3d matrix where the 3d dimension is Differentiation/Integration of each raw.
 
-<img src="https://www.sciencedirect.com/science/article/pii/S0960077920308857#fig0006" width="350">
+<img src="https://ars.els-cdn.com/content/image/1-s2.0-S0960077920308857-gr6.jpg" width="350">
 
 The function gives more degree of freedome in the order domain, represented in the swept area between different integer orders.
 
