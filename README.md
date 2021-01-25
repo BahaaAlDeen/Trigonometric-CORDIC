@@ -1,5 +1,5 @@
 # Trignometric-CORDIC
-Iterative discrete mathematical method to achieve an accurate trigonometric output. Please cite the following paper <img src="https://doi.org/10.1016/j.chaos.2020.110493" width="350">
+Iterative discrete mathematical method to achieve an accurate trigonometric output. Please cite the following paper <src="https://doi.org/10.1016/j.chaos.2020.110493" width="350">
 
 # Mathematical Concept(MATLAB)
 
